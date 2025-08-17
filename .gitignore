@@ -1,4 +1,15 @@
 # Ignore Python virtual environment
+
 venv/
+
 venv_py311/
+
 backend/scheduler/venv_py311/
+
+config.bat
+
+node_modules
+
+temp_auto_push.bat
+
+temp_interactive_push.bat
